@@ -1,0 +1,13 @@
+C:\Users\Sparky\source\repos\ArraysCoordinates\ArraysCoordinates\bin\Debug\netcoreapp3.1\ArraysCoordinates.exe
+C:\Users\Sparky\source\repos\ArraysCoordinates\ArraysCoordinates\bin\Debug\netcoreapp3.1\ArraysCoordinates.deps.json
+C:\Users\Sparky\source\repos\ArraysCoordinates\ArraysCoordinates\bin\Debug\netcoreapp3.1\ArraysCoordinates.runtimeconfig.json
+C:\Users\Sparky\source\repos\ArraysCoordinates\ArraysCoordinates\bin\Debug\netcoreapp3.1\ArraysCoordinates.runtimeconfig.dev.json
+C:\Users\Sparky\source\repos\ArraysCoordinates\ArraysCoordinates\bin\Debug\netcoreapp3.1\ArraysCoordinates.dll
+C:\Users\Sparky\source\repos\ArraysCoordinates\ArraysCoordinates\bin\Debug\netcoreapp3.1\ArraysCoordinates.pdb
+C:\Users\Sparky\source\repos\ArraysCoordinates\ArraysCoordinates\obj\Debug\netcoreapp3.1\ArraysCoordinates.csprojAssemblyReference.cache
+C:\Users\Sparky\source\repos\ArraysCoordinates\ArraysCoordinates\obj\Debug\netcoreapp3.1\ArraysCoordinates.AssemblyInfoInputs.cache
+C:\Users\Sparky\source\repos\ArraysCoordinates\ArraysCoordinates\obj\Debug\netcoreapp3.1\ArraysCoordinates.AssemblyInfo.cs
+C:\Users\Sparky\source\repos\ArraysCoordinates\ArraysCoordinates\obj\Debug\netcoreapp3.1\ArraysCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\Sparky\source\repos\ArraysCoordinates\ArraysCoordinates\obj\Debug\netcoreapp3.1\ArraysCoordinates.dll
+C:\Users\Sparky\source\repos\ArraysCoordinates\ArraysCoordinates\obj\Debug\netcoreapp3.1\ArraysCoordinates.pdb
+C:\Users\Sparky\source\repos\ArraysCoordinates\ArraysCoordinates\obj\Debug\netcoreapp3.1\ArraysCoordinates.genruntimeconfig.cache
